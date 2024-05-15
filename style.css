@@ -1,0 +1,27 @@
+.main { display: flex; 
+background-color: #5f9cd7; justify-content: center;
+}
+.main img {margin-right: 2%;}
+
+.main-text {align-self: center; color: white;}
+
+.main input{color:aqua; background-color: white; border: 1px #5f9cd7 solid;}
+
+.main hr{color: white;}
+
+button { background-color: white; border: #5f9cd7 solid 1px; padding: 2px; color: #5f9cd7;}
+
+.banner { display: flex; flex-direction: column; justify-content: space-around; align-items: center;}
+
+
+.corc {border-radius: 50%; border: 1px solid white; width: 50px; height: 50px;}
+
+.bottom { background-color: #5f9cd7; display: flex; justify-content: space-between;} 
+
+.top-bar img {width: 100px ;}
+
+.top-bar {display: flex; flex-direction: column; justify-content: center; align-items: flex-start;}
+ 
+.top-bar span{color: grey; font-size: 10px; text-align: center; margin-left: 9px;}
+
+.circus{display: flex; flex-direction: column;}
