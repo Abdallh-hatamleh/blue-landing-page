@@ -9,19 +9,21 @@ background-color: #5f9cd7; justify-content: center;
 
 .main hr{color: white;}
 
-button { background-color: white; border: #5f9cd7 solid 1px; padding: 2px; color: #5f9cd7;}
+button { background-color: white; border: #5f9cd7 solid 2px; padding-left: 10px ; padding-right: 10px; padding-top: 3px; padding-bottom: 3px; color: #5f9cd7;}
 
-.banner { display: flex; flex-direction: column; justify-content: space-around; align-items: center;}
+.banner { display: flex; flex-direction: column; justify-content: space-around; align-items: center; padding: 2%;}
 
 
 .corc {border-radius: 50%; border: 1px solid white; width: 50px; height: 50px;}
 
-.bottom { background-color: #5f9cd7; display: flex; justify-content: space-between;} 
+.bottom { background-color: #5f9cd7; display: flex; justify-content: space-around;} 
 
-.top-bar img {width: 100px ;}
+.top-bar img {width: 5%; margin-left: 7px;}
 
 .top-bar {display: flex; flex-direction: column; justify-content: center; align-items: flex-start;}
  
-.top-bar span{color: grey; font-size: 10px; text-align: center; margin-left: 9px;}
+.top-bar span{color: grey;font-size: 10px;; text-align: center; margin-left: 9px;}
 
-.circus{display: flex; flex-direction: column;}
+.line {border-bottom: 2px solid rgba(196, 195, 195, 0.87); height: 1px; width: 100%;}
+
+.circus{display: flex; flex-direction: column; margin: 8px; align-items: center;}
